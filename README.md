@@ -6,6 +6,10 @@ Build kafka and zookeeper images, containers and run them
 
 docker-compose up -d
 
+### Application
+
+Run application from IDE.
+
 ### REST endpoint for change vehicle position
 
 http://localhost:8085/taxi/position/add
