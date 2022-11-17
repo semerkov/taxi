@@ -12,6 +12,8 @@ Run application from IDE.
 
 ### REST endpoint for change vehicle position
 
+HTTP POST request
+
 http://localhost:8085/taxi/position/add
 
 Request example:
